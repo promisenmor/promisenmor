@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Promise Nmor</h1>
-<h3 alidb="center">I'm a **Backend Developer** from **Nigeria**, driven by a mission to **build systems that solve real problems** and **scale with impact**.</h3>
+<h3 align="center">I'm a Backend Developer, driven by a mission to build systems that solve real problems and scale with impact.</h3>
 
 ## 🚀 What I Do
 
@@ -25,9 +25,6 @@ To become one of the most impactful backend developers in Africa—contributing 
 
 - LinkedIn: [linkedin.com/in/promisenmor](https://linkedin.com/in/promisenmor)  
 - Twitter: [@promisenmor](https://twitter.com/promisenmor)  
-- Dev/Blog: [https://promisenmor.dev](https://promisenmor.dev) *(if available)*
-
----
 
 > “Real impact comes from writing code that outlives trends and empowers people.”
 
