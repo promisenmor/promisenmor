@@ -1,17 +1,38 @@
 <h1 align="center">Hi 👋, I'm Promise Nmor</h1>
-<h3 align="center">A passionate Backend Developer From Nigeria</h3>
+<h3 alidb="center">I'm a **Backend Developer** from **Nigeria**, driven by a mission to **build systems that solve real problems** and **scale with impact**.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=promisenmor&label=Profile%20views&color=0e75b6&style=flat" alt="promisenmor" /> </p>
+## 🚀 What I Do
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=promisenmor" alt="promisenmor" /></a> </p>
+- 🧱 I build robust, scalable backend systems using **Python**, **Django**, and **Django REST Framework**
+- 🗃️ I work with **PostgreSQL**, **Docker**, and modern REST API design to create clean, efficient architectures
+- 🔐 I care deeply about **security**, **performance**, and writing code that’s maintainable and meaningful
 
-<p align="left"> <a href="https://twitter.com/_chibogu" target="blank"><img src="https://img.shields.io/twitter/follow/_chibogu?logo=twitter&style=for-the-badge" alt="_chibogu" /></a> </p>
+## 🎯 My Mission
 
-- 💬 Ask me about **Python, Django**
+To become one of the most impactful backend developers in Africa—contributing to tools, platforms, and products that empower businesses, communities, and individuals through technology.
 
-- 📫 How to reach me **nmorchibogu98@gmail.com**
+## 🌱 Currently Exploring
 
-### Blogs posts
+- **DevOps** (CI/CD, Docker, cloud platforms like AWS)
+- **System Design** (for scale, reliability, and efficiency)
+- **Distributed Systems**, **microservices**, and **API security**
+
+## 📌 Projects I'm Proud Of
+
+> *Coming soon — working on personal finance & e-learning platforms built from the ground up.*
+
+## 📫 Connect With Me
+
+- LinkedIn: [linkedin.com/in/promisenmor](https://linkedin.com/in/promisenmor)  
+- Twitter: [@promisenmor](https://twitter.com/promisenmor)  
+- Dev/Blog: [https://promisenmor.dev](https://promisenmor.dev) *(if available)*
+
+---
+
+> “Real impact comes from writing code that outlives trends and empowers people.”
+
+Thanks for stopping by! 🌍
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
