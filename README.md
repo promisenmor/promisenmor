@@ -24,7 +24,7 @@ To become one of the most impactful backend developers in Africa—contributing 
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/promisenmor](https://linkedin.com/in/promisenmor)  
-- Twitter: [@promisenmor](https://twitter.com/promisenmor)  
+- Twitter: [@promisenmor](https://twitter.com/_chibogu)  
 
 > “Real impact comes from writing code that outlives trends and empowers people.”
 
